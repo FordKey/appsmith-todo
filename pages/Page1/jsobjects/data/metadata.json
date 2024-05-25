@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "data",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "todos",
+        "value": "undefined"
+      },
+      {
+        "name": "dummytodos",
+        "value": "[{\n  titles: 'Use Input to Add Todo',\n  completed: true\n}, {\n  titles: 'Click Hit to update',\n  completed: false\n}, {\n  titles: 'Click on Done Todo',\n  completed: false\n}, {\n  titles: 'Have Fun',\n  completed: false\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_data",
+  "deleted": false,
+  "gitSyncId": "664e4f5391e6f913eb91775c_d8f278d7-ef9b-4b7d-9154-5a9df46bcbff"
+}
