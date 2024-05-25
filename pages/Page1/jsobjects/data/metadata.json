@@ -13,7 +13,7 @@
       },
       {
         "name": "dummyTodos",
-        "value": "[{\n  titles: 'Use Input to Add Todo',\n  completed: true\n}, {\n  titles: 'Click Hit to update',\n  completed: false\n}, {\n  titles: 'Click on Done Todo',\n  completed: false\n}, {\n  titles: 'Have Fun',\n  completed: false\n}]"
+        "value": "[{\n  title: 'Use Input to Add Todo',\n  completed: true\n}, {\n  title: 'Click Hit to update',\n  completed: false\n}, {\n  title: 'Click on Done Todo',\n  completed: false\n}, {\n  title: 'Have Fun',\n  completed: false\n}]"
       }
     ],
     "userPermissions": []

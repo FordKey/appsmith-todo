@@ -1,7 +1,7 @@
 {
     "boxShadow": "none",
     "iconSVG": "/static/media/icon.f4dd498ee72f01127e5bfe3a1a8ad671.svg",
-    "onSubmit": "{{app.addTodo(AddTask.text);}}",
+    "onSubmit": "{{app.addTodo(addInput.text);}}",
     "topRow": 2,
     "labelWidth": 5,
     "type": "INPUT_WIDGET_V2",
@@ -37,7 +37,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "needsErrorInfo": false,
     "mobileBottomRow": 9,
-    "widgetName": "AddTask",
+    "widgetName": "addInput",
     "displayName": "Input",
     "searchTags": [
         "form",
