@@ -12,6 +12,10 @@
         "value": "undefined"
       },
       {
+        "name": "activeTodo",
+        "value": "undefined"
+      },
+      {
         "name": "dummyTodos",
         "value": "[{\n  title: 'Use Input to Add Todo',\n  completed: true\n}, {\n  title: 'Click Hit to update',\n  completed: false\n}, {\n  title: 'Click on Done Todo',\n  completed: false\n}, {\n  title: 'Have Fun',\n  completed: false\n}]"
       }

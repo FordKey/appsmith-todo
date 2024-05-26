@@ -7,5 +7,11 @@ export default {
 	},
 	addTodo (title) {
 		this.updateTodo(data.todos.length, {title, completed:false});
+	},
+	deleteTodo (id) {
+		data.todos.splice(id, 1);
+	},
+	editTodo (id, title) {
+		this.updateTodo(id, {title})
 	}
 }
