@@ -1,18 +1,18 @@
 {
     "needsErrorInfo": false,
-    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "boxShadow": "none",
     "mobileBottomRow": 11,
-    "widgetName": "TopContainer",
     "borderColor": "#E0DEDE",
+    "widgetName": "TopContainer",
     "isCanvas": true,
-    "displayName": "Container",
     "iconSVG": "/static/media/icon.dcc052e58db911c4c8955c200f4bcf5c.svg",
+    "displayName": "Container",
+    "topRow": 10,
     "searchTags": [
         "div",
         "parent",
         "group"
     ],
-    "topRow": 10,
     "bottomRow": 72,
     "parentRowSpace": 10,
     "type": "CONTAINER_WIDGET",
@@ -21,11 +21,9 @@
     "mobileRightColumn": 45,
     "animateLoading": true,
     "parentColumnSpace": 6.84375,
+    "dynamicTriggerPathList": [],
     "leftColumn": 0,
-    "dynamicBindingPathList": [
-        {"key": "borderRadius"},
-        {"key": "boxShadow"}
-    ],
+    "dynamicBindingPathList": [{"key": "borderRadius"}],
     "children": [{
         "needsErrorInfo": false,
         "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
@@ -83,7 +81,6 @@
     "thumbnailSVG": "/static/media/thumbnail.6cb355b93146b5347bbb048a568ed446.svg",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "xbplqpm0d4",
-    "containerStyle": "card",
     "onCanvasUI": {
         "focusBGCSSVar": "--on-canvas-ui-widget-focus",
         "disableParentSelection": false,
@@ -91,13 +88,14 @@
         "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
         "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
     },
+    "containerStyle": "card",
     "minWidth": 450,
     "isVisible": true,
     "version": 1,
     "parentId": "0",
     "tags": ["Layout"],
-    "renderMode": "CANVAS",
     "isLoading": false,
+    "renderMode": "CANVAS",
     "mobileTopRow": 1,
     "responsiveBehavior": "fill",
     "originalTopRow": 10,

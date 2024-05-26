@@ -17,13 +17,12 @@
     "mobileRightColumn": 8,
     "animateLoading": true,
     "overflow": "NONE",
-    "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "fontFamily": "Inter",
     "parentColumnSpace": 6.53125,
     "dynamicTriggerPathList": [],
     "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
-        {"key": "fontFamily"},
         {"key": "borderRadius"},
         {"key": "text"}
     ],
@@ -63,6 +62,6 @@
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
     "originalBottomRow": 13,
-    "fontSize": "1rem",
+    "fontSize": "1.25rem",
     "minDynamicHeight": 4
 }
