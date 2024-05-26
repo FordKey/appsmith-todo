@@ -90,7 +90,7 @@
     "dynamicTriggerPathList": [],
     "borderWidth": "1",
     "key": "u4iche20qd",
-    "backgroundColor": "linear-gradient(to bottom, Navy, white);",
+    "backgroundColor": "linear-gradient(to bottom, Navy, LightGrey);",
     "isDeprecated": false,
     "rightColumn": 64,
     "thumbnailSVG": "/static/media/thumbnail.6cb355b93146b5347bbb048a568ed446.svg",
