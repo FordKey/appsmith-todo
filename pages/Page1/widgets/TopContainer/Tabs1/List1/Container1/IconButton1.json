@@ -1,10 +1,10 @@
 {
     "needsErrorInfo": false,
-    "boxShadow": "none",
+    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
     "mobileBottomRow": 4,
     "widgetName": "IconButton1",
     "onClick": "{{app.deleteTodo(currentIndex);}}",
-    "buttonColor": "#e15615",
+    "buttonColor": "#ef4444",
     "displayName": "Icon button",
     "iconSVG": "/static/media/icon.bb5d55ae67fb1687dff78e66ad1faec0.svg",
     "searchTags": [
@@ -20,12 +20,12 @@
     "animateLoading": true,
     "parentColumnSpace": 5.78125,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 55,
-    "dynamicBindingPathList": [{"key": "borderRadius"}],
+    "leftColumn": 56,
+    "dynamicBindingPathList": [],
     "isDisabled": false,
     "key": "c55351slkv",
     "isDeprecated": false,
-    "rightColumn": 64,
+    "rightColumn": 63,
     "thumbnailSVG": "/static/media/thumbnail.b02b764a52db45d332efa723178a50a4.svg",
     "iconName": "delete",
     "dynamicHeight": "FIXED",
@@ -46,7 +46,7 @@
     "isLoading": false,
     "mobileTopRow": 0,
     "responsiveBehavior": "hug",
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "borderRadius": "1.5rem",
     "mobileLeftColumn": 50,
     "buttonVariant": "TERTIARY"
 }
