@@ -4,7 +4,7 @@
     "mobileBottomRow": 4,
     "widgetName": "IconButton1",
     "onClick": "{{app.deleteTodo(currentIndex);}}",
-    "buttonColor": "#fca5a5",
+    "buttonColor": "#e15615",
     "displayName": "Icon button",
     "iconSVG": "/static/media/icon.bb5d55ae67fb1687dff78e66ad1faec0.svg",
     "searchTags": [

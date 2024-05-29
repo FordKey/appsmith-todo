@@ -4,7 +4,7 @@
     "mobileBottomRow": 4,
     "widgetName": "IconButton3",
     "onClick": "{{data.activeTodo = currentIndex}}",
-    "buttonColor": "#86efac",
+    "buttonColor": "#18181b",
     "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Icon button",
     "iconSVG": "/static/media/icon.bb5d55ae67fb1687dff78e66ad1faec0.svg",
