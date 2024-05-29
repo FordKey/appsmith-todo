@@ -75,6 +75,7 @@
     "mobileBottomRow": 12,
     "widgetName": "Container1",
     "disallowCopy": true,
+    "dynamicPropertyPathList": [{"key": "backgroundColor"}],
     "displayName": "Container",
     "searchTags": [
         "div",
@@ -90,7 +91,7 @@
     "borderWidth": "1",
     "positioning": "fixed",
     "key": "tcsrtrfw07",
-    "backgroundColor": "white",
+    "backgroundColor": "background-color: #2BC5FC;\nbackground-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);",
     "isDeprecated": false,
     "rightColumn": 64,
     "thumbnailSVG": "/static/media/thumbnail.6cb355b93146b5347bbb048a568ed446.svg",
